@@ -1,0 +1,3 @@
+oz
+git+https://github.com/kazehara/RestaurantSearcherNLP.git
+numpy
