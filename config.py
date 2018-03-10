@@ -6,7 +6,7 @@ plugins = [
 ]
 
 app_options = dict(
-    port = 8000,
+    port = 49152,
     debug = True,
     static_path = "static",
     template_path = "templates",
